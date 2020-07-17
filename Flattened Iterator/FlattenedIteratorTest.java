@@ -4,7 +4,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class FlattenIteratorTest {
+class FlattenedIteratorTest {
     @Test
     public void testGenericCase() {
         List<Integer> listA = List.of(1, 2, 3);
