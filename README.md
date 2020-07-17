@@ -1,2 +1,2 @@
 # Google-Get-Ahead-2020
-A virtual program ran by Google
+This repository contains all the technical challenges that I met in the Google's Get Ahead 2020 Program.
